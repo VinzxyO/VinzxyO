@@ -16,7 +16,7 @@
    <!-- Profile Views Counter -->
    <p align="center">
       <a href="#" alt="anchor">
-         <img height="20" src="https://komarev.com/ghpvc/?username=AutoFTbot&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views">
+         <img height="20" src="https://komarev.com/ghpvc/?username=VinzxyO&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views">
       </a>
    </p>
 
@@ -26,8 +26,8 @@
          <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/veQ9T_WLQe2RLNAh7xoQvw/image" alt="Badgr Badge">
       </a>
       <br>
-      <small><strong>Awarded:</strong> 08/02/2025</small><br>
-      <small><strong>Awarded To:</strong> AGIN AZHAR MH LUTPI</small>
+      <small><strong>Awarded:</strong> 10/22/2025</small><br>
+      <small><strong>Awarded To:</strong> Devun</small>
    </div>
 
    <!-- Achievements Metrics -->
