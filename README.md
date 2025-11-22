@@ -47,7 +47,7 @@
    <!-- Contribution Status -->
    <div align="center">
       <a href="#" alt="anchor">
-         <img src="https://github-contribution-stats.vercel.app/api/?username=AutoFTbot" alt="Contribution Status" />
+         <img src="https://github-contribution-stats.vercel.app/api/?username=VinzxyO" alt="Contribution Status" />
       </a>
    </div>
 
