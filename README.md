@@ -1,74 +1,46 @@
+[I believe in center aligned 🤲]: #
+
 <div align="center">
-   <!-- Animated GIF -->
-   <div align="center">'
-      <a href="#" alt="anchor">
-      <img src="https://raw.githubusercontent.com/AutoFTbot/AutoFTbot/refs/heads/main/assets/halos.gif" 
-           alt="Intro GIF" width="500" />
-   </div>
-   <div align="center">
-   <!-- Animated GIF -->
-   <div align="center">'
-      <a href="#" alt="anchor">
-      <img src="https://holopin.me/autoftbot" 
-           alt="Intro GIF" width="500" />
-   </div>
-   
-   <!-- Profile Views Counter -->
-   <p align="center">
-      <a href="#" alt="anchor">
-         <img height="20" src="https://komarev.com/ghpvc/?username=VinzxyO&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views">
-      </a>
-   </p>
-
-   <!-- Badgr Badge -->
-   <div align="center">
-      <a href="https://badgr.com/public/assertions/veQ9T_WLQe2RLNAh7xoQvw">
-         <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/veQ9T_WLQe2RLNAh7xoQvw/image" alt="Badgr Badge">
-      </a>
-      <br>
-      <small><strong>Awarded:</strong> 10/22/2025</small><br>
-      <small><strong>Awarded To:</strong> Devun</small>
-   </div>
-
-   <!-- Achievements Metrics -->
-   <div align="center">
-      <a href="#" alt="anchor">
-         <img src="metrics.plugin.achievements.svg" alt="Achievements" />
-      </a>
-   </div>
-
-   <!-- Isocalendar (Contributions Calendar) -->
-   <div align="center">
-      <a href="#" alt="anchor">
-         <img src="metrics.plugin.isocalendar.svg" alt="Contributions calendar" />
-      </a>
-   </div>
-
-   <!-- Contribution Status -->
-   <div align="center">
-      <a href="#" alt="anchor">
-         <img src="https://github-contribution-stats.vercel.app/api/?username=VinzxyO" alt="Contribution Status" />
-      </a>
-   </div>
-
-<!-- QRIS_START -->
-<div align="center">
-
-<h2>QRIS Donasi Otomatis</h2>
-
-<img src="qris.png" alt="QRIS" width="300" />
-
-<br><br>
-
+  
+[this is for the picture]: #	
+<div id="header">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<!-- QRIS_END -->
-<p align="center">
-  <a href="https://github.com/AutoFTbot/AutoFTbot">
-    <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/AutoFTbot/86a13cfb221fc094c35b4320e102d759/raw/total-donations.json" alt="Total Donasi"/>
-  </a>
-</p>
+  
+[badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
+<div id="badges">
+<a href="https://www.linkedin.com/in/shaunak-chandra-6b3363215/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://www.instagram.com/shaunak_chandra/">
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+</a>
+<a href="mailto:aqchandra15@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+</a>
+<a href="https://leetcode.com/aqchandra15/">
+  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
+</a>
 </div>
 
-<br/>
+
+### Hi there 👋🎉
+
+My name is **Shaunak Chandra** and welcome to my profile.
+
+I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute of Industrial Technology. Coding and Web Designing enthusiast looking for an opportunityto show my skills. My moto is to learn from any situation, grow as an individual and always help others.
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
+  
 
 
+### :bar_chart: GitHub stats
+
+[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
+
+[![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinzxyO&count_private=true&show_icons=true&theme=dark)](https://github.com/VinzxyO/github-readme-stats)
+
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=VinzxyO&show_icons=true&theme=dark)
+
+ 
+</div>
