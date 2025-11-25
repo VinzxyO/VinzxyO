@@ -32,8 +32,6 @@ I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute o
 
 [i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
 
-[![Shaunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=VinzxyO&count_private=true&show_icons=true&theme=dark)](https://github.com/VinzxyO/github-readme-stats)
-
 ![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=VinzxyO&show_icons=true&theme=dark)
 
  
