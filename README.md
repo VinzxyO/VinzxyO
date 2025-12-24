@@ -18,11 +18,11 @@
 </div>
 
 
-### Hi there 👋🎉
+### Halo semuanya 👋🎉
 
-My name is **Devin Wilson** and welcome to my profile.
+Nama saya **Devin Wilson** dan selamat datang di profil saya.
 
-I am currently pursuing B.Tech degree in Computer Science in Kalinga Institute of Industrial Technology. Coding and Web Designing enthusiast looking for an opportunityto show my skills. My moto is to learn from any situation, grow as an individual and always help others.
+Saya saat ini sedang menempuh pendidikan S1 Teknik Informatika di Institut Teknologi Bandung (ITB). Sebagai penggemar coding dan desain web, saya selalu mencari kesempatan untuk menunjukkan kemampuan saya. Moto saya adalah belajar dari setiap situasi, tumbuh sebagai individu, dan selalu membantu sesama.
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
   
