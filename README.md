@@ -8,7 +8,7 @@
 
 # Halo semuanya 👋🎉
 
-Nama saya **Devin Wilson** dan selamat datang di profil saya.
+Nama saya **Kevin Sinaga** dan selamat datang di profil saya.
 
 Saya saat ini adalah siswa **SMK** jurusan **Teknik Komputer dan Jaringan (TKJ)**. Sebagai penggemar teknologi, jaringan, dan coding, saya selalu mencari kesempatan untuk menunjukkan kemampuan saya. Moto saya adalah belajar dari setiap situasi, tumbuh sebagai individu, dan selalu membantu sesama.
 
